@@ -1,0 +1,12 @@
+#highlites {
+  list-style-type: none;
+}
+
+#highlites  li {
+	  padding-left: 2rem;
+
+  background-image: url(https://raw.githubusercontent.com/SaschaC/bioFiles/master/check1.png);
+  background-position: 0 0;
+  background-size: 1rem 1rem;
+  background-repeat: no-repeat;
+}
